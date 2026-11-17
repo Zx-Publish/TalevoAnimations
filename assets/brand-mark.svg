@@ -1,6 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e0b8ff"/><stop offset=".5" stop-color="#a65cf0"/><stop offset="1" stop-color="#527fff"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="3"/></filter></defs>
-<rect x="3" y="3" width="58" height="58" rx="17" fill="#171025" stroke="#8150b7" stroke-opacity=".7"/>
-<path d="M14 18h36v7H36v22h-8V25H14z" fill="url(#g)"/>
-<circle cx="46" cy="44" r="6" fill="#8db3ff"/><circle cx="46" cy="44" r="10" fill="#8db3ff" opacity=".25" filter="url(#b)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1280"
+     height="1280"
+     viewBox="0 0 1280 1280">
+
+  <title>Talevo Animations Brand Mark</title>
+
+  <image
+    x="0"
+    y="0"
+    width="1280"
+    height="1280"
+    href="talevo-logo.png"
+    xlink:href="talevo-logo.png"
+    preserveAspectRatio="xMidYMid meet"
+  />
+
 </svg>
